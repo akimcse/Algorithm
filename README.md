@@ -1,3 +1,3 @@
-# Algorithm-BOJ
+# Algorithm
 ---
 2021.06.23. ~
